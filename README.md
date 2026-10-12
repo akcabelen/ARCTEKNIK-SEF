@@ -393,3 +393,7 @@ proje teknik/
 
 *Bu README projenin güncel mimari + özellik referansıdır. Detaylı ticari modül notları ayrıca
 `license-manager/` ve ilgili sektör/yol-haritası belgelerinde tutulur.*
+
+---
+
+**Lisans:** Kaynak kod tescillidir — tüm hakları saklıdır. İzinsiz kullanılamaz, kopyalanamaz, dağıtılamaz ya da satılamaz. Ayrıntı: [LICENSE](LICENSE).
